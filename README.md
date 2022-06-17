@@ -8,7 +8,9 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 List of Dataset to pick: [https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 
-In this project, I picked the Musical Instruments dataset [https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Musical_Instruments_v1_00.tsv.gz](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Musical_Instruments_v1_00.tsv.gz) from the dataset list above and use PySpark on Google Colab to perform ETL process to extract, transform and connect to AWS RDS instance, and load the transformed data into pgAdmin.
+In this project, I picked the Musical Instruments dataset
+[https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Musical_Instruments_v1_00.tsv.gz](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Musical_Instruments_v1_00.tsv.gz)
+from the dataset list above and use PySpark on Google Colab to perform ETL process to extract, transform and connect to AWS RDS instance, and load the transformed data into pgAdmin.
 
 After that I used PySpark to determine if there is any bias toward favorable reviews from Vine members and non-vine members in my dataset.
 
