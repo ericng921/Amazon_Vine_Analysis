@@ -18,9 +18,13 @@ After that I used PySpark to determine if there is any bias toward favorable rev
 ## Result
 
 ![review_id_table](https://user-images.githubusercontent.com/100378319/174410942-86f3232e-45ef-4bf2-9474-670aed16a9f7.png)
+
 ![product_table](https://user-images.githubusercontent.com/100378319/174410944-87327938-bea7-42db-ba12-1f60e3acd54c.png)
+
 ![customers_table](https://user-images.githubusercontent.com/100378319/174410945-c0251240-d053-4fa0-ae8b-2f669d2bcf80.png)
+
 ![vine_table](https://user-images.githubusercontent.com/100378319/174410946-7b9c047f-5327-4535-b6a3-05f8f41259d5.png)
+
 
 Above pictures show after I loaded all four transformed data into pgAdmin
 
