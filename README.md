@@ -42,7 +42,7 @@ The percentage of Vine reviews were 5-star is 56.67% and 56.72% for non-Vine rev
 
 ## Summary
 
-After performing the analysis for the dataset, the bias of the Vine member review with the non-Vine member review is negative. Both percentage of 5-star review of total number of reviews are really similar which are 56.67% and 56.72%. (Vine: 34/60 vs non-Vine: 212 / 14477)
+After performing the analysis for the dataset, the bias of the Vine member review with the non-Vine member review is negative. Both percentage of 5-star review of total number of reviews are really similar which are 56.67% and 56.72%. (Vine: 34/60 vs non-Vine: 8212 / 14477)
 
 There is couple additional analysis that we could do with the dataset to support my statement:
 
